@@ -1,5 +1,5 @@
 {
-  "name"       : "tg",
+  "name"       : "cgf-2018",
   "version"    : "1.0.0",
   "description": "Trabalho de Graduação - Site do Evento Caracas Geek Fest",
   "main"       : "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url" : "git+https://github.com/pazuza/tg.git"
+    "url" : "git+https://github.com/pazuza/cgf-2018.git"
   },
   "author" : "Jessé Souza",
   "license": "ISC",
   "bugs"   : {
-    "url": "https://github.com/pazuza/tg/issues"
+    "url": "https://github.com/pazuza/cgf-2018/issues"
   },
-  "homepage"    : "https://github.com/pazuza/tg#readme",
+  "homepage"    : "https://github.com/pazuza/cgf-2018#readme",
   "dependencies": {
     "browser-sync"     : "^2.26.3",
     "gulp"             : "^4.0.0",
